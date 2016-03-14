@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Hello World
+title: The First of the Microbe Hunters
 ---
 
-# Title
+My first selection of bio-related POP music is...
 
-## Subtitle
+## "Nomus et Phusis" by stereolab (2000)
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+This track is included in the album **"The First of the Microbe Hunters"**. The album title makes reference to the book called **"Microbe Hunters"** by Paul Henry de Kruif (microbiologist/author). "The First of the Microbe Hunters" is the first chapter of this book and dedicated to Dutch scientist **Anton van Leeuwenhoek**. Leeuwenhoek is known as "the Father of Microbiology". 
 
-**bold**
-
-[link to google](www.google.com)
+[Stereolab - Nomus et Phusis](https://www.youtube.com/watch?v=ayiEDI_RKR4)
