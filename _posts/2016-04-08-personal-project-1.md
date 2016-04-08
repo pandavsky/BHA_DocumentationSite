@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Project
+title: -- Personal Project --
 ---
 
 # Sake Song Yeast
