@@ -1,7 +1,9 @@
 ---
 layout: post
-title: -- Personal Project --
+title: "-- Personal Project --"
+published: true
 ---
+
 
 # Sake Song Yeasts
 
@@ -26,8 +28,8 @@ In 17th century, Sake brewers sang these songs to check a long process of brewin
 - to encode music to DNA sequence
 
 **Exploring scenarios;**
--How does the sake song yeast work?
--Designing products used Sake song yeast 
+- How does the sake song yeast work?
+- Designing products used Sake song yeast 
 
 
 ###Proces
