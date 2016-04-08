@@ -14,13 +14,13 @@ published: true
 #### Background
 
 * Traditional Sake Brewing songs are work songs when sake is brewed.
-In 17th century, Sake brewers sang these songs to check a long process of brewing, and also to keep good rhythm of teamwork etc… 
+In 17th century, Sake brewers sang these songs to check a long process of brewing, and also to keep the good rhythm of teamwork etc… 
 * In 20th century, brewing technology has been advanced, and brewing process are reduced, so these sake brewing songs are gradually forgotten.
 * Those songs were passed down from generation to generation by oral tradition. So, I started to think how those songs can be brought down to posterity.
 
 
-- [Traditional sake song 1](https://www.youtube.com/watch?v=le4eRY3imvQ) -YouTube
-- [Traditional sake song 2](https://www.youtube.com/watch?v=EvL-sPA3Gws&nohtml5=False) -YouTube
+- [Traditional sake song 1](https://www.youtube.com/watch?v=le4eRY3imvQ) -YouTube video
+- [Traditional sake song 2](https://www.youtube.com/watch?v=EvL-sPA3Gws&nohtml5=False) -YouTube video
 
 
 #### Objectives
@@ -33,7 +33,7 @@ In 17th century, Sake brewers sang these songs to check a long process of brewin
 *Exploring scenarios;*
 
 - How does the sake song yeast work?
-- Designing products used Sake song yeast 
+- Designing scenarios and/or products made from Sake song yeasts 
 
 
 #### Proccess
