@@ -19,9 +19,8 @@ In 17th century, Sake brewers sang these songs to check a long process of brewin
 * Those songs were passed down from generation to generation by oral tradition. So, I started to think how those songs can be brought down to posterity.
 
 
-[Traditional sake song 1](https://www.youtube.com/watch?v=le4eRY3imvQ) -YouTube
-
-[Traditional sake song 2](https://www.youtube.com/watch?v=EvL-sPA3Gws&nohtml5=False) -YouTube
+- [Traditional sake song 1](https://www.youtube.com/watch?v=le4eRY3imvQ) -YouTube
+- [Traditional sake song 2](https://www.youtube.com/watch?v=EvL-sPA3Gws&nohtml5=False) -YouTube
 
 
 #### Objectives
