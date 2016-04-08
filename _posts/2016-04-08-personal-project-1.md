@@ -38,3 +38,4 @@ In 17th century, Sake brewers sang these songs to check a long process of brewin
 2. Researching existing algorithms of DNA > Music 
 3. Encoding short Music phrase to DNA sequence
 4. Exploring the scenario and/or products based on findings from the above process 1, 2 and 3.
+
