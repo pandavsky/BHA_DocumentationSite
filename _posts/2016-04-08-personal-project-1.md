@@ -11,10 +11,10 @@ First post on my Github Jekyll page on the first day of the BioHack Academy
 
 **Background**
 
-Traditional Sake Brewing songs are work songs when sake is brewed.
+* Traditional Sake Brewing songs are work songs when sake is brewed.
 In 17th century, Sake brewers sang these songs to check a long process of brewing, and also　to keep good rhythm of teamwork etc… 
-In 20th century, brewing technology has been advanced, and brewing process are reduced, so these sake brewing songs are gradually forgotten.
-Those songs were passed down from generation to generation by oral tradition. So, I started to think how those songs can be brought down to posterity.
+* In 20th century, brewing technology has been advanced, and brewing process are reduced, so these sake brewing songs are gradually forgotten.
+* Those songs were passed down from generation to generation by oral tradition. So, I started to think how those songs can be brought down to posterity.
 
 
 [traditional sake song](https://www.youtube.com/watch?v=le4eRY3imvQ)
