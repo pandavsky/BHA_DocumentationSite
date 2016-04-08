@@ -3,11 +3,11 @@ layout: post
 title: -- Personal Project --
 ---
 
-# Sake Song Yeast
+# Sake Song Yeasts
 
 ## Encoding a Traditional Sake Song to DNA sequence
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+
 
 ###Background###
 
