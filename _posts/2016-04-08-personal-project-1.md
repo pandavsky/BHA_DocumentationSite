@@ -30,16 +30,16 @@ In 17th century, Sake brewers sang these songs to check a long process of brewin
 - to encode music to DNA sequence
 
 
-*Exploring scenarios;*
+*Exploring stories/products;*
 
 - How does the sake song yeast work?
-- Designing scenarios and/or products made from Sake song yeasts 
+- Assumable stories and/or products made from Sake song yeasts
 
 
 #### Proccess
 
 1. Understanding characteristics of sake yeasts (Culturing and Isolating yeasts from sake lees)
-2. Researching existing algorithms of DNA > Music 
+2. Researching existing algorithms of DNA > Music (and vice versa)
 3. Encoding short Music phrase to DNA sequence
-4. Exploring the scenario and/or products based on findings from the above process 1, 2 and 3.
+4. Exploring the stories and/or products based on findings from the above process 1, 2 and 3.
 
