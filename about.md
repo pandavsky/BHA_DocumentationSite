@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 This is the BioHack Academy documentation site of Mayumi Sakai
-My background is musicology, interacrion design, and fermented food.
+My background is in musicology, interacrion design, and fermented food.
