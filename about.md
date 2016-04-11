@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the BioHack Academy documentation site of YOUR NAME
+This is the BioHack Academy documentation site of Mayumi Sakai
+My background is musicology, interacrion design, and fermented food.
