@@ -5,7 +5,7 @@ published: true
 ---
 
 
-# Sake Song Yeasts
+# Sake Song Yeast
 
 ## Encoding a Traditional Sake Song to DNA sequence
 
@@ -38,7 +38,7 @@ In 17th century, Sake brewers sang these songs to check a long process of brewin
 
 #### Proccess
 
-1. Understanding characteristics of sake yeasts (culturing and isolating yeasts from sake lees)
+1. Understanding characteristics of sake yeast (culturing and isolating yeast from sake lees)
 2. Researching the existing logic of DNA to Music (and vice versa) encoding.
 3. Encoding short Music phrase to DNA sequence
 4. Exploring the stories and/or products based on findings from the above process 1, 2 and 3.
